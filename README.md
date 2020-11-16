@@ -1,2 +1,2 @@
 # scripts
-Ensemble des scripts utilisables pour l'étude de sources.
+Ensemble des scripts et notebooks utilisables pour l'étude de sources.
