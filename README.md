@@ -1,6 +1,6 @@
-## Scripts
+# Boîte à outils d'intelligence artificielle
 
-# Lien vers le site du projet : https://baoia.huma-num.fr/
+Lien vers le site du projet : https://baoia.huma-num.fr/
 
 L'ensemble du répertoire est divisé en dossiers relatifs aux corpus de sources étudiées. Chaque dossier contient les scripts notebooks directement utilisables.
 
