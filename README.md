@@ -15,4 +15,5 @@ L'ensemble du répertoire est divisé en dossiers relatifs aux corpus de sources
 - BaOIA_REN-demo: outil de Reconnaissance automatique des entités nommées. 
 
   Visualisation
-- BaOIA_cartographie-demo: Outils de cartographie interactive (3)
+- BaOIA_cartographie-complète : outil de création automatique d'une carte avec tous les lieux référencés
+- BaOIA_cartographue_catégorisée: outil de création d'une carte intéractive de sélection avec tri des lieux par "types"
