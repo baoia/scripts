@@ -16,4 +16,6 @@ L'ensemble du répertoire est divisé en dossiers relatifs aux corpus de sources
 
 ### Visualisation
 - BaOIA_cartographie-complète : outil de création automatique d'une carte avec tous les lieux référencés
-- BaOIA_cartographue_catégorisée: outil de création d'une carte intéractive de sélection avec tri des lieux par "types"
+- BaOIA_cartographie_catégorisée: outil de création d'une carte intéractive de sélection avec tri des lieux par "types"
+- BaOIA_cartographie_parcours: outil de création d'un parcours automatique sur une carte
+- BaOIA_cartographie_comparaison_parcours: outil de création de deux parcoure sur une carte intéractive
