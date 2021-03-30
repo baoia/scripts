@@ -8,7 +8,7 @@ L'ensemble du répertoire est divisé en dossiers relatifs aux corpus de sources
 ### Téléchargement des données:
 - BaOIA_gallica-text : télécharge les fichiers issus de Gallica en fichiers de texte brut.
 - BaOIA_gallica_jpg : télécharge les fichiers issus de Gallica en format images.
-- BaOIA_images_IIIF: télécharge les images en format IIIF (utiisation pour la récupération des cartes)
+- BaOIA_images_IIIF: télécharge les images en format IIIF (utilisation pour la récupération des cartes)
 - BaOIA_converter_pdf_jpg: permets la conversion de fichiers téléchargés en pdf en jpg.
 
 ### Étude de contenu
