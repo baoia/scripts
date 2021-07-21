@@ -13,7 +13,8 @@ L'ensemble du répertoire est divisé en dossiers relatifs aux corpus de sources
 
 ### Étude de contenu
 - BaOIA_REN-demo: outil de Reconnaissance automatique des entités nommées. 
-- BaOIA_outils_personnages: permet la récupération des informations sur les personnages identifiés et des études statistiques.
+- BaOIA_outils_personnages: outil d'alignement des données avec Wikidata de récupération des informations sur les personnages identifiés et des études statistiques.
+- BaOIA_api_base_joconde_MonumenTAL: outil d'alignement des données avec la base Joconde et de récupération des métadonnées
 
 ### Visualisation
 - BaOIA_cartographie-complete : outil de création automatique d'une carte avec tous les lieux référencés.
