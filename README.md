@@ -40,9 +40,16 @@ L'ensemble du répertoire est divisé en dossiers relatifs aux corpus de sources
 - BaOIA_carte_chaleur_departements: création d'une carte de chaleur statistique par département
 
 
-
 ## Projet MonumenTAL
 - BaOIA_alignement_artistes_monumenTAL: outil d'alignement des artistes repérés avec Wikidata et récupération des informations biographiques.
 - BaOIA_api_base_joconde_MonumenTAL: outil d'alignement des données avec la base Joconde et de récupération des métadonnées.
+
+
+## Les affiches (La Contemporaine)
+### Téléchargement et récupération des données:
+- BaOIA_layout_parsing_inference_affiches_Prima: script d'inférence de layout parsing (segmentation) avec le modèle Prima sur les affiches
+- BaOIA_layout_parsing_inference_affiches_NPNavigato: script d'inférence de layout parsing (segmentation) avec le modèle Newspaper Navigator sur les affiches
+
+
 
 
