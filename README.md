@@ -8,13 +8,12 @@ L'ensemble du répertoire est divisé en dossiers relatifs aux corpus de sources
 ### Téléchargement et récupération des données:
 - BaOIA_gallica-text : télécharge les fichiers issus de Gallica en fichiers de texte brut.
 - BaOIA_gallica_jpg : télécharge les fichiers issus de Gallica en format images.
-- BaOIA_images_IIIF: télécharge les images en format IIIF (utilisation pour la récupération des cartes)
-- BaOIA_converter_pdf_jpg: permets la conversion de fichiers téléchargés en pdf en jpg.
-- BaOIA_tesseract: océrisation de fichiers images
+- BaOIA_scrapper_gallica_IIIF: télécharge les images en format IIIF (utilisation pour la récupération des cartes)
+- BaOIA_océrisation_tesseract: océrisation de fichiers images
 
 ### Étude de contenu
-- BaOIA_REN-demo: outil de Reconnaissance automatique des entités nommées. 
-- BaOIA_outils_personnages: outil d'alignement des données avec Wikidata de récupération des informations sur les personnages identifiés et des études statistiques.
+- BaOIA_reconnaisance_extraction_entites_nommees: outil de Reconnaissance automatique des entités nommées. 
+- BAOIA_alignement_statistiques_personnages: outil d'alignement des données avec Wikidata de récupération des informations sur les personnages identifiés et des études statistiques.
 
 ### Visualisation
 - BaOIA_cartographie-complete : outil de création automatique d'une carte avec tous les lieux référencés.
