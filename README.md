@@ -10,6 +10,7 @@ L'ensemble du répertoire est divisé en dossiers relatifs aux corpus de sources
 - BaOIA_gallica_jpg : télécharge les fichiers issus de Gallica en format images.
 - BaOIA_images_IIIF: télécharge les images en format IIIF (utilisation pour la récupération des cartes)
 - BaOIA_converter_pdf_jpg: permets la conversion de fichiers téléchargés en pdf en jpg.
+- BaOIA_tesseract: océrisation de fichiers images
 
 ### Étude de contenu
 - BaOIA_REN-demo: outil de Reconnaissance automatique des entités nommées. 
