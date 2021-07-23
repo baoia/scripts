@@ -51,5 +51,6 @@ L'ensemble du répertoire est divisé en dossiers relatifs aux corpus de sources
 - BaOIA_layout_parsing_inference_affiches_NPNavigato: script d'inférence de layout parsing (segmentation) avec le modèle Newspaper Navigator sur les affiches
 
 
-
-
+## Presse illustrée et estampes satiriques
+### Téléchargement et récupération des données:
+- BaOIA_scrapper_heidelberg: téléchargement des documents issus de la bibliothèque numérique d'Heidelberg dans tous les formats disponibles (xml-alto, IIIF, texte brut océrisé, extraction des illustrations, jpg) 
