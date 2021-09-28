@@ -43,6 +43,7 @@ L'ensemble du répertoire est divisé en dossiers relatifs aux corpus de sources
 ## Projet MonumenTAL
 - BaOIA_alignement_artistes_monumenTAL: outil d'alignement des artistes repérés avec Wikidata et récupération des informations biographiques.
 - BaOIA_api_base_joconde_MonumenTAL: outil d'alignement des données avec la base Joconde et de récupération des métadonnées.
+- BaOIA_MonumenTAL_alignement_bases_de_donnees : téléchargement de bases de données par recherche (base Joconde, Gallica, Europeana), téléchargement des images correspondantes, création de cartographie des lieux de conservation (base joconde) et comparaison des bases de données.
 
 
 ## Les affiches (La Contemporaine)
