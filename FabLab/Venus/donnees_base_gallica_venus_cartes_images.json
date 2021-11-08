@@ -1,0 +1,795 @@
+[
+    {
+        "srw:searchretrieveresponse": {
+            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+            "@xmlns:ns5": "http://gallica.bnf.fr/namespaces/gallica/",
+            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+            "@xmlns:srw": "http://www.loc.gov/zing/srw/",
+            "srw:version": "1.2",
+            "srw:echoedsearchretrieverequest": {
+                "srw:query": "dc.title any Venus and dc.type any carte",
+                "srw:version": "1.2"
+            },
+            "srw:numberofrecords": "13",
+            "srw:extraresponsedata": "<numberOfRecordsDecollapser>13</numberOfRecordsDecollapser>",
+            "srw:records": {
+                "srw:record": [
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": "France",
+                                "dc:creator": "Vélain, Charles (1845-1925). Fonction indéterminée",
+                                "dc:date": "18..",
+                                "dc:format": [
+                                    "1 flle ; 37 x 27 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b8443289j",
+                                "dc:language": [
+                                    "fre",
+                                    "français"
+                                ],
+                                "dc:publisher": "imp. de Lemercier (Paris)",
+                                "dc:relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40763703m",
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, GED-4199",
+                                "dc:subject": "Saint-Paul, Île -- Environs",
+                                "dc:title": "Pafsage de Venus. Mission de l'ile St Paul, Ile St Paul. T. H. 2eme partie ; Pl. 24",
+                                "dc:type": [
+                                    "map",
+                                    "carte",
+                                    "image fixe",
+                                    "image",
+                                    "still image"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "0",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b8443289j.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b8443289j.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b8443289j.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b8443289j.thumbnail",
+                            "typedoc": "cartes",
+                            "uri": "btv1b8443289j",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b8443289j"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:creator": [
+                                    "Portier, P. J.. Collaborateur",
+                                    "Ypey, N. (17..-17..?). Auteur du texte"
+                                ],
+                                "dc:date": "1761",
+                                "dc:format": [
+                                    "1 flle ; 41 x 27 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b84440272",
+                                "dc:language": [
+                                    "dut",
+                                    "néerlandais"
+                                ],
+                                "dc:publisher": "K. van Tongerlo (Amsterdam)",
+                                "dc:relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb406750721",
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, GED-5018",
+                                "dc:subject": "Vénus",
+                                "dc:title": "Afbeelding van den weg der planet Venus gezien uit het centrum der Aarde... / door den Professor N. Ypey",
+                                "dc:type": [
+                                    "map",
+                                    "carte",
+                                    "image fixe",
+                                    "image",
+                                    "still image"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "1",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b84440272.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b84440272.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b84440272.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b84440272.thumbnail",
+                            "typedoc": "cartes",
+                            "uri": "btv1b84440272",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b84440272"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": "France",
+                                "dc:creator": "Guigue, Georges (1861-1926). Cartographe",
+                                "dc:date": "1886",
+                                "dc:format": [
+                                    "1 carte ; 49 x 58 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b8440044b",
+                                "dc:language": [
+                                    "fre",
+                                    "français"
+                                ],
+                                "dc:publisher": "Impr. A. Roux (Lyon)",
+                                "dc:relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40770656d",
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, GED-1145",
+                                "dc:subject": [
+                                    "Tards-venus",
+                                    "Lyonnais, Province du",
+                                    "Forez, Pays du",
+                                    "Beaujolais, Pays du"
+                                ],
+                                "dc:title": "Carte pour servir au mémoire sur les tard-venus en Lyonnais, Forez et Beaujolais 1356-1368 / par Georges Guigue",
+                                "dc:type": [
+                                    "map",
+                                    "carte",
+                                    "image fixe",
+                                    "image",
+                                    "still image"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "2",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b8440044b.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b8440044b.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b8440044b.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b8440044b.thumbnail",
+                            "typedoc": "cartes",
+                            "uri": "btv1b8440044b",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b8440044b"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": "France",
+                                "dc:creator": "Guigue, Georges (1861-1926). Cartographe",
+                                "dc:date": "1886",
+                                "dc:description": "Échelle(s) : 1:320 000",
+                                "dc:format": [
+                                    "1 flle ; 42 x 48 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b84394039",
+                                "dc:language": "fre",
+                                "dc:publisher": "imp. de A. Roux (Lyon)",
+                                "dc:relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb406971579",
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, GED-490",
+                                "dc:subject": "Lyonnais, Province du -- 1356-1368",
+                                "dc:title": "Carte pour servir au mémoire sur les tard-venus en Lyonnais, Forez et Beaujolais, 1356-1368 / par Georges Guigue",
+                                "dc:type": [
+                                    "map",
+                                    "carte",
+                                    "image fixe",
+                                    "image",
+                                    "still image"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "3",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b84394039.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b84394039.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b84394039.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b84394039.thumbnail",
+                            "typedoc": "cartes",
+                            "uri": "btv1b84394039",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b84394039"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": "Monde",
+                                "dc:creator": [
+                                    "La Lande, Jérôme de (1732-1807). Cartographe",
+                                    "Choffard, Pierre-Philippe (1730-1809). Graveur"
+                                ],
+                                "dc:date": "1760",
+                                "dc:format": [
+                                    "1 carte : gr. col. et ill. ; 47,5 x 66 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 2"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b53179329r",
+                                "dc:language": [
+                                    "fre",
+                                    "français"
+                                ],
+                                "dc:publisher": "A Paris chés Lattré graveur rue Saint Jacques, prés la fontaine S. Séverin à la ville de Bordeaux [1760]",
+                                "dc:relation": [
+                                    "Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb41495064m",
+                                    "Appartient à : Collection géographique du marquis de Paulmy ; 20",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44389145m"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Arsenal, EST-1500 (20)",
+                                "dc:subject": [
+                                    "Monde -- 1769",
+                                    "Vénus -- 1769",
+                                    "Éclipses de soleil (1769)"
+                                ],
+                                "dc:title": "Figure du passage de Venus sur le disque du Soleil qu'on observera le 3 juin 1769... / par M. de la Lande",
+                                "dc:type": [
+                                    "map",
+                                    "carte",
+                                    "image fixe",
+                                    "image",
+                                    "still image"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "4",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b53179329r.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b53179329r.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b53179329r.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b53179329r.thumbnail",
+                            "typedoc": "cartes",
+                            "uri": "btv1b53179329r",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b53179329r"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": "Monde",
+                                "dc:creator": [
+                                    "La Lande, Jérôme de (1732-1807). Cartographe",
+                                    "Choffard, Pierre-Philippe (1730-1809). Graveur"
+                                ],
+                                "dc:date": "1760",
+                                "dc:description": [
+                                    "Appartient à l’ensemble documentaire : AnvilFr",
+                                    "Appartient à l’ensemble documentaire : MAEDI008",
+                                    "Appartient à l’ensemble documentaire : MAEDIGen0"
+                                ],
+                                "dc:format": [
+                                    "1 carte : en coul. ; 47 x 65,5 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b53052821r",
+                                "dc:language": "fre",
+                                "dc:publisher": "(Paris)",
+                                "dc:relation": [
+                                    "Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb40577015h",
+                                    "Appartient à : Collection d'Anville ; 00054 B",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb405832902"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Cartes et plans, GE DD-2987 (54 B)",
+                                "dc:subject": [
+                                    "Monde -- 1769",
+                                    "Vénus -- 1769",
+                                    "Éclipses de soleil (1769)"
+                                ],
+                                "dc:title": "Figure du passage de Venus sur le disque du Soleil qu'on observera le 3 juin 1769 / par M. de la Lande",
+                                "dc:type": [
+                                    "map",
+                                    "carte",
+                                    "image fixe",
+                                    "image",
+                                    "still image"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "5",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b53052821r.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b53052821r.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b53052821r.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b53052821r.thumbnail",
+                            "typedoc": "cartes",
+                            "uri": "btv1b53052821r",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b53052821r"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": "Ciel",
+                                "dc:creator": [
+                                    "Doppelmayr, Johann Gabriel (1677-1750). Cartographe",
+                                    "Homann, Johann Baptist (1663-1724). Éditeur scientifique"
+                                ],
+                                "dc:date": "1742",
+                                "dc:description": [
+                                    "Échelle(s) : [Échelle non déterminable]",
+                                    "Numérisé par le partenaire",
+                                    "Appartient à l’ensemble documentaire : BNUStras1",
+                                    "Appartient à l’ensemble documentaire : BNUStr042",
+                                    "Numérisé par le partenaire"
+                                ],
+                                "dc:format": [
+                                    "1 flle : en coul. ; 53 x 63 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b10100342m",
+                                "dc:language": [
+                                    "lat",
+                                    "latin"
+                                ],
+                                "dc:publisher": "(Norimbergae)",
+                                "dc:relation": [
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44393744p",
+                                    "Fait partie de :Atlas coelestis ..., studio et labore Joh. Gabrielis Doppelmaieri.. 1742."
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale et universitaire de Strasbourg, CARTE91299-45",
+                                "dc:subject": [
+                                    "Astronomie",
+                                    "Constellations",
+                                    "Univers"
+                                ],
+                                "dc:title": "Motus in coelo spirales : quos planetae inferiores Venus et Mercurius secundum Tychonicorum hypothesin exhibent, pro exemplo ad annum Christi praecipue 1712 et 1713 / geometrice descripti a Ioh. Gabriele Doppelmaiero...",
+                                "dc:type": [
+                                    "map",
+                                    "carte",
+                                    "image fixe",
+                                    "image",
+                                    "still image"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "6",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b10100342m.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b10100342m.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b10100342m.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b10100342m.thumbnail",
+                            "typedoc": "cartes",
+                            "uri": "btv1b10100342m",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b10100342m"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": "Ciel",
+                                "dc:creator": "Doppelmayr, Johann Gabriel (1677-1750). Auteur du texte",
+                                "dc:date": "1710",
+                                "dc:description": [
+                                    "Échelle(s) : [Echelle non déterminable]",
+                                    "Numérisé par le partenaire",
+                                    "Appartient à l’ensemble documentaire : BNUStr042",
+                                    "Appartient à l’ensemble documentaire : BNUStras1",
+                                    "Numérisé par le partenaire"
+                                ],
+                                "dc:format": [
+                                    "1 flle : en coul. ; 50 x 58 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b10100383q",
+                                "dc:language": [
+                                    "lat",
+                                    "latin"
+                                ],
+                                "dc:publisher": "(Noribergæ)",
+                                "dc:relation": [
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44361659b",
+                                    "Fait partie de :Atlas coelestis ... / studio et labore Joh. Gabrielis Doppelmaieri. - 1742, p. 7,"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale et universitaire de Strasbourg, CARTE91299-40",
+                                "dc:subject": [
+                                    "Astronomie",
+                                    "Vénus",
+                                    "Mercure (planète)"
+                                ],
+                                "dc:title": "Phænomena motuum irregularium quos Planetæ inferiores Venus et Mercurius ad annum salutis : directionibus, stationibus et retrogradationibus suis è terra spectandos præbent, exemplo singulorum periodi pro Hypotheseos Copernic firmamento Geometrice demonstrata / à Ioh. Grabriele Doppelmajero...",
+                                "dc:type": [
+                                    "map",
+                                    "carte",
+                                    "image fixe",
+                                    "image",
+                                    "still image"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "7",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b10100383q.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b10100383q.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b10100383q.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b10100383q.thumbnail",
+                            "typedoc": "cartes",
+                            "uri": "btv1b10100383q",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b10100383q"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": "Monde",
+                                "dc:creator": [
+                                    "La Lande, Jérôme de (1732-1807). Auteur du texte",
+                                    "Lattré, Jean (170.?-178.? ; graveur, éditeur et marchand de cartes). Graveur",
+                                    "Choffard, Pierre-Philippe (1730-1809). Graveur"
+                                ],
+                                "dc:date": "1760",
+                                "dc:description": [
+                                    "Échelle(s) : [Échelle non déterminable]",
+                                    "Numérisé par le partenaire",
+                                    "Appartient à l’ensemble documentaire : BNUStras1",
+                                    "Appartient à l’ensemble documentaire : BNUStr042",
+                                    "Numérisé par le partenaire"
+                                ],
+                                "dc:format": [
+                                    "1 flle ; 49 x 67 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b10100340q",
+                                "dc:language": [
+                                    "fre",
+                                    "français"
+                                ],
+                                "dc:publisher": "(A Paris)",
+                                "dc:relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb443904297",
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale et universitaire de Strasbourg, CARTE91299-65",
+                                "dc:subject": [
+                                    "Astronomie",
+                                    "Éclipses de soleil",
+                                    "Monde"
+                                ],
+                                "dc:title": "Figure du passage de Venus sur le disque du soleil qu'on observera le 3. juin 1769 : sur laquelle on voit les momens de l'entrée et de la sortie de Venus pour tous les païs de la terre réduits au méridien de Paris : avec l'effet des parrallaxes, et le choix des païs de la terre ou ce passage devra être observé pour en conclure la distance du soleil et de toutes les planettes a la terre / par M. de la Lande, lecteur royal en mathématiques... ; P. P. Choffard fecit ornamenta",
+                                "dc:type": [
+                                    "map",
+                                    "carte",
+                                    "image fixe",
+                                    "image",
+                                    "still image"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "8",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b10100340q.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b10100340q.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b10100340q.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b10100340q.thumbnail",
+                            "typedoc": "cartes",
+                            "uri": "btv1b10100340q",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b10100340q"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": "Réunion (France)",
+                                "dc:creator": "Boucher, Antoine (1680-1725). Cartographe",
+                                "dc:date": "17..",
+                                "dc:description": [
+                                    "Échelle(s) : 3 lieues [= 21 cm]",
+                                    "Appartient à l’ensemble documentaire : Reunion1"
+                                ],
+                                "dc:format": [
+                                    "1 carte : ms, col. ; 33,5 x 89 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b53105249n",
+                                "dc:language": [
+                                    "fre",
+                                    "français"
+                                ],
+                                "dc:relation": [
+                                    "Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb435587417",
+                                    "Appartient à : [Division 3 du portefeuille 218 du Service hydrographique de la marine] ; 2/2",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb43561128w"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Cartes et plans, GE SH 18 PF 218 DIV 3 P 2/2",
+                                "dc:subject": [
+                                    "Saint-Denis -- Rade",
+                                    "Réunion, Île de la"
+                                ],
+                                "dc:title": "Partie de l'Isle de Bourbon qui comprend les mouillages de St. Denis & de St. Paul avec un plan particulier de la rade de St. Denis et un autre de l'Isle Entière, ou la montagne est représentée telle quelle paroits de 9 à 10 lieues dans l'Est, elle est située par 21 degrés de latitude Sud et par 16 degrés 30 minutes de longitude, le premier méridien passant par l'isle de Tenerif / Par le Sr. Boucher Enseigne sur la Fregatte du Roy la Venus",
+                                "dc:type": [
+                                    "manuscript cartographic resource",
+                                    "document cartographique manuscrit",
+                                    "map",
+                                    "carte",
+                                    "image fixe",
+                                    "image",
+                                    "still image"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "9",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b53105249n.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b53105249n.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b53105249n.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b53105249n.thumbnail",
+                            "typedoc": "cartes",
+                            "uri": "btv1b53105249n",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b53105249n"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": "France – Normandie – Manche",
+                                "dc:date": "1786",
+                                "dc:description": "Appartient à l’ensemble documentaire : BNormand1",
+                                "dc:format": [
+                                    "1 flle ; 48 x 33 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b8442136r",
+                                "dc:language": [
+                                    "fre",
+                                    "français"
+                                ],
+                                "dc:publisher": "[s.n.] (Paris)",
+                                "dc:relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40681989g",
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, GED-3329",
+                                "dc:subject": "Cherbourg",
+                                "dc:title": "Disposition de l'escadre venue à Cherbourg à l'occasion du voyage qu'y a fait le Roi le 23 juin 1786",
+                                "dc:type": [
+                                    "map",
+                                    "carte",
+                                    "image fixe",
+                                    "image",
+                                    "still image"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "10",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b8442136r.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b8442136r.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b8442136r.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b8442136r.thumbnail",
+                            "typedoc": "cartes",
+                            "uri": "btv1b8442136r",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b8442136r"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": "France – Normandie – Manche",
+                                "dc:date": "1786",
+                                "dc:description": "Appartient à l’ensemble documentaire : BNormand1",
+                                "dc:format": [
+                                    "1 flle : en noir ; 48 x 32 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b84462385",
+                                "dc:language": [
+                                    "fre",
+                                    "français"
+                                ],
+                                "dc:publisher": "Tilliard (Paris)",
+                                "dc:relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40682087j",
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, GED-7361",
+                                "dc:subject": "Cherbourg, Rade de",
+                                "dc:title": "Disposition de l'escadre venue à Cherbourg à l'occasion du voyage qu'y a fait le Roy le 23 juin 1786...",
+                                "dc:type": [
+                                    "map",
+                                    "carte",
+                                    "image fixe",
+                                    "image",
+                                    "still image"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "11",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b84462385.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b84462385.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b84462385.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b84462385.thumbnail",
+                            "typedoc": "cartes",
+                            "uri": "btv1b84462385",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b84462385"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": "Espagne – Catalogne",
+                                "dc:date": "1710",
+                                "dc:description": "Échelle(s) : 1200 toises [=Om. 108 ; 1:21 650 ca]",
+                                "dc:format": [
+                                    "1 flle ms. au lavis ; 470 x 340",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b84940120",
+                                "dc:language": [
+                                    "fre",
+                                    "français"
+                                ],
+                                "dc:publisher": "[s.n.][s.n.]",
+                                "dc:relation": [
+                                    "Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb40593927f",
+                                    "Appartient à : Registre C ; 12226",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb405981650"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Cartes et plans, GE D-16248",
+                                "dc:subject": [
+                                    "Campements",
+                                    "Théâtre de la guerre",
+                                    "Balaguer -- Environs -- Camp militaire"
+                                ],
+                                "dc:title": "[Environs de Balaguer] Explication. A.Terrain ou l'Armée étoit campée le 4e de Juin jusqua la nuict du 13 au 14e.B. Camp que l'armée est venû prendre le 24e de Juin pour prévenir l'Ennemy...",
+                                "dc:type": [
+                                    "manuscript cartographic resource",
+                                    "document cartographique manuscrit",
+                                    "map",
+                                    "carte",
+                                    "image fixe",
+                                    "image",
+                                    "still image"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "12",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b84940120.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b84940120.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b84940120.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b84940120.thumbnail",
+                            "typedoc": "cartes",
+                            "uri": "btv1b84940120",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b84940120"
+                        }
+                    }
+                ]
+            },
+            "srw:nextrecordposition": "50"
+        }
+    }
+]
