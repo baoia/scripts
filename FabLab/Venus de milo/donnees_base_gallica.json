@@ -1,0 +1,337 @@
+[
+    {
+        "srw:searchretrieveresponse": {
+            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+            "@xmlns:ns5": "http://gallica.bnf.fr/namespaces/gallica/",
+            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+            "@xmlns:srw": "http://www.loc.gov/zing/srw/",
+            "srw:version": "1.2",
+            "srw:echoedsearchretrieverequest": {
+                "srw:query": "dc.title= adj \"\"Venus de milo\"\"",
+                "srw:version": "1.2"
+            },
+            "srw:numberofrecords": "6",
+            "srw:extraresponsedata": "<numberOfRecordsDecollapser>7</numberOfRecordsDecollapser>",
+            "srw:records": {
+                "srw:record": [
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:creator": [
+                                    "Van Heusen, Jimmy (1913-1990). Auteur ou responsable intellectuel",
+                                    "Mulligan, Gerry (1927-1996). Auteur ou responsable intellectuel",
+                                    "Davis, Miles (1926-1991). Direction d'orchestre"
+                                ],
+                                "dc:date": "1954",
+                                "dc:description": [
+                                    "Titre uniforme : [Darn that dream]",
+                                    "BnF-Partenariats, Collection sonore - Believe",
+                                    "Contient une table des matières"
+                                ],
+                                "dc:format": [
+                                    "1 disque : 45 t ; 17 cm",
+                                    "disc",
+                                    "disque microsillon",
+                                    "multipart/mixed",
+                                    "Nombre total de vues : 6"
+                                ],
+                                "dc:identifier": [
+                                    "https://gallica.bnf.fr/ark:/12148/bpt6k88379880",
+                                    "Numéro commercial : Capitol 6F1221"
+                                ],
+                                "dc:relation": [
+                                    "Notice d’oeuvre : http://catalogue.bnf.fr/ark:/12148/cb13871905v",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb37797930h"
+                                ],
+                                "dc:rights": [
+                                    "conditions spécifiques d'utilisation - BnF-Partenariats, Collection sonore - Believe",
+                                    "restricted use"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Audiovisuel, E-8390",
+                                "dc:title": "Vénus de Milo / Gerry Mulligan. Darn that dream : extrait de la comédie musicale \"Swingin the dream\" / James van Heusen ; Miles Davis et son orch.",
+                                "dc:type": [
+                                    "sound",
+                                    "document sonore"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "0",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/bpt6k88379880.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/bpt6k88379880.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/bpt6k88379880.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/bpt6k88379880.thumbnail",
+                            "typedoc": "sonores",
+                            "uri": "bpt6k88379880",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/bpt6k88379880"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:creator": "Legros, Alphonse (1837-1911). Dessinateur. Donateur",
+                                "dc:date": "1890",
+                                "dc:format": [
+                                    "1 dess. : crayon graphite et lavis de couleur ; 22,9 x 31,2 cm (im.)",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b10545385p",
+                                "dc:language": "Sans contenu linguistique",
+                                "dc:relation": [
+                                    "Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb40344595p",
+                                    "Appartient à : [Recueil. Oeuvre d'Alphonse Legros. Oeuvre de Réserve]",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44293675h"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Estampes et photographie, RESERVE FOL-DC-310 (D)",
+                                "dc:subject": [
+                                    "La Vénus de Milo (sculpture)",
+                                    "Torse du Belvédère",
+                                    "Études et recherches"
+                                ],
+                                "dc:title": "[Études d'après l'antique]. [Le Torse du Belvédère]. [La Vénus de Milo] : [dessin] / [A. Legros]",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "dessin",
+                                    "drawing"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "1",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b10545385p.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b10545385p.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b10545385p.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b10545385p.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b10545385p",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b10545385p"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:creator": "Belleforest, François de (1530-1583). Auteur du texte",
+                                "dc:date": "1579",
+                                "dc:description": [
+                                    "Contient une table des matières",
+                                    "Avec mode texte"
+                                ],
+                                "dc:format": [
+                                    "2 vol. ([7]-XV, 817 f., [108] p. ; [5] p., f. 818-1692, [66] p.) ; in-fol",
+                                    "Nombre total de vues : 1778"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/bpt6k6386697c",
+                                "dc:language": [
+                                    "frm",
+                                    "français moyen"
+                                ],
+                                "dc:publisher": "G. Buon (Paris)",
+                                "dc:relation": [
+                                    "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb300798695",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb300798695"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, FOL-L35-65 (1)",
+                                "dc:title": "Les grandes annales et histoire générale de France, dès la venue des Francs en Gaule jusques au règne du roy très-chrestien Henry III. Tome 1 / ... par François de Belleforest,...",
+                                "dc:type": [
+                                    "text",
+                                    "monographie imprimée",
+                                    "monographie imprimée"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "2",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/bpt6k6386697c.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/bpt6k6386697c.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/bpt6k6386697c.medres",
+                            "nqamoyen": "88.9",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/bpt6k6386697c.thumbnail",
+                            "typedoc": "monographies",
+                            "uri": "bpt6k6386697c",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/bpt6k6386697c"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:date": "1959",
+                                "dc:description": [
+                                    "BnF-Partenariats, Collection sonore - Believe",
+                                    "Contient une table des matières"
+                                ],
+                                "dc:format": [
+                                    "1 disque : 45 t ; 17 cm",
+                                    "disc",
+                                    "disque microsillon",
+                                    "multipart/mixed",
+                                    "Nombre total de vues : 6"
+                                ],
+                                "dc:identifier": [
+                                    "https://gallica.bnf.fr/ark:/12148/bpt6k88207935",
+                                    "Numéro commercial : Philips B372693F"
+                                ],
+                                "dc:relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb37975602w",
+                                "dc:rights": [
+                                    "conditions spécifiques d'utilisation - BnF-Partenariats, Collection sonore - Believe",
+                                    "restricted use"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Audiovisuel, E-13937",
+                                "dc:title": "LE MARCHAND DE BONHEUR / CALVET (J.P.) & BROUSSOLLE (J.). VENUS DE MILO / CORENZO (A.) & SINCLAIR (V.) ; MORENO (Dario) avec LEGRAND (Michel) son orchestre et les FONTANA",
+                                "dc:type": [
+                                    "sound",
+                                    "document sonore"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "3",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/bpt6k88207935.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/bpt6k88207935.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/bpt6k88207935.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/bpt6k88207935.thumbnail",
+                            "typedoc": "sonores",
+                            "uri": "bpt6k88207935",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/bpt6k88207935"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:date": "1954",
+                                "dc:description": [
+                                    "BnF-Partenariats, Collection sonore - Believe",
+                                    "Contient une table des matières"
+                                ],
+                                "dc:format": [
+                                    "1 disque : 45 t ; 17 cm",
+                                    "disc",
+                                    "disque microsillon",
+                                    "multipart/mixed",
+                                    "Nombre total de vues : 8"
+                                ],
+                                "dc:identifier": [
+                                    "https://gallica.bnf.fr/ark:/12148/bpt6k8838129p",
+                                    "Numéro commercial : Capitol EAP1459"
+                                ],
+                                "dc:relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb37797323k",
+                                "dc:rights": [
+                                    "conditions spécifiques d'utilisation - BnF-Partenariats, Collection sonore - Believe",
+                                    "restricted use"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Audiovisuel, E-8532",
+                                "dc:title": "Jeru : Beechwood music / Gerry Mulligan. Moon dreams / Chummy Mac Gregor ; Johnny Mercer. Venus de Milo / Gerry Mulligan. Deception / Miles Davis ; Miles Davis et son ensemble",
+                                "dc:type": [
+                                    "sound",
+                                    "document sonore"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "4",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/bpt6k8838129p.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/bpt6k8838129p.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/bpt6k8838129p.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/bpt6k8838129p.thumbnail",
+                            "typedoc": "sonores",
+                            "uri": "bpt6k8838129p",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/bpt6k8838129p"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:creator": [
+                                    "Vigneau, André (1892-1968)",
+                                    "Société Caméra"
+                                ],
+                                "dc:date": "1930",
+                                "dc:description": [
+                                    "Caméra fut un studio de publicité photographique et cinématographique fondé par André Vigneau en 1932. Il resta en activité jusqu'en 1940.",
+                                    "Comme d'autres planches du fonds, cette planche a probablement été réalisée à partir de tirages 18 x 24 cm découpés.",
+                                    "4C-EPF-007-0456-(1) : tirage réalisé à partir du négatif NN-004-2052",
+                                    "4C-EPF-007-0456-(2) : tirage réalisé à partir du négatif NN-004-1466 (lui même issu du négatif NN-004-2648)",
+                                    "4C-EPF-007-0456-(1-2) : 2 photographies, différentes, sont montées sur un carton unique."
+                                ],
+                                "dc:format": "2 tirages gélatino-argentiques montés sur carton : noir et blanc ; 16,4 x 12,7 cm (épr.) et 19,4 x 13,4 cm (épr.), 21 x 28 cm (sup.)",
+                                "dc:identifier": "http://bibliotheques-specialisees.paris.fr/ark:/73873/pf0002198550",
+                                "dc:language": "fre",
+                                "dc:publisher": "[1930-1940]",
+                                "dc:relation": "vignette : http://bibliotheques-specialisees.paris.fr/in/rest/Thumb/image?id=p::usmarcdef_0002198550&mat=Image",
+                                "dc:subject": "Photographie publicitaire -- France -- Paris (France)",
+                                "dc:title": "[Reproductions d'illustrations pour l'Exposition internationale des Arts et Techniques. Rétrospective Louis Pasteur. Etude publicitaire non idenfitiée. Profil de femme et Venus de Milo : [photographie]",
+                                "dc:type": [
+                                    "image",
+                                    "image fixe",
+                                    "still image"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "5",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "http://bibliotheques-specialisees.paris.fr/in/rest/Thumb/image?id=p::usmarcdef_0002198550&mat=Image",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "http://bibliotheques-specialisees.paris.fr/in/rest/Thumb/image?id=p::usmarcdef_0002198550&mat=Image",
+                            "medres": "http://bibliotheques-specialisees.paris.fr/in/rest/Thumb/image?id=p::usmarcdef_0002198550&mat=Image",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "http://bibliotheques-specialisees.paris.fr/in/rest/Thumb/image?id=p::usmarcdef_0002198550&mat=Image",
+                            "typedoc": "images",
+                            "uri": "oai:bibliotheques-specialisees.paris.fr:ark:/73873/pf0002198550",
+                            "#text": "http://bibliotheques-specialisees.paris.fr/ark:/73873/pf0002198550"
+                        }
+                    }
+                ]
+            },
+            "srw:nextrecordposition": "50"
+        }
+    }
+]
