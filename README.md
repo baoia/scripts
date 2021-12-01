@@ -1,6 +1,7 @@
 # Boîte à outils d'intelligence artificielle
 
 Lien vers le site du projet : https://baoia.huma-num.fr/
+
 Des tutoriels détaillés sont disponibles sur le site ci-dessus.
 
 L'ensemble du répertoire est divisé en dossiers relatifs aux corpus de sources étudiées. Chaque dossier contient les scripts notebooks directement utilisables.
