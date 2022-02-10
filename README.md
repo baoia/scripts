@@ -8,7 +8,7 @@ L'ensemble du répertoire est divisé en dossiers relatifs aux corpus de sources
 
 ## Les guides de voyage (Gallica)
 ### Téléchargement et récupération des données:
-- BaOIA_gallica-text : télécharge les fichiers issus de Gallica en fichiers de texte brut.
+- BaOIA_gallica_txt : télécharge les fichiers issus de Gallica en fichiers de texte brut.
 - BaOIA_gallica_jpg : télécharge les fichiers issus de Gallica en format images.
 - BaOIA_scrapper_gallica_IIIF: télécharge les images en format IIIF (utilisation pour la récupération des cartes)
 - BaOIA_océrisation_tesseract: océrisation de fichiers images
@@ -44,16 +44,8 @@ L'ensemble du répertoire est divisé en dossiers relatifs aux corpus de sources
 
 ## Projet MonumenTAL
 - BaOIA_alignement_artistes_monumenTAL: outil d'alignement des artistes repérés avec Wikidata et récupération des informations biographiques.
-- BaOIA_api_base_joconde_MonumenTAL: outil d'alignement des données avec la base Joconde et de récupération des métadonnées.
-- BaOIA_MonumenTAL_alignement_bases_de_donnees : téléchargement de bases de données par recherche (base Joconde, Gallica, Europeana), téléchargement des images correspondantes, création de cartographie des lieux de conservation (base joconde) et comparaison des bases de données.
-
-
-## Les affiches (La Contemporaine)
-### Téléchargement et récupération des données:
-- BaOIA_layout_parsing_inference_affiches_Prima: script d'inférence de layout parsing (segmentation) avec le modèle Prima sur les affiches
-- BaOIA_layout_parsing_inference_affiches_NPNavigato: script d'inférence de layout parsing (segmentation) avec le modèle Newspaper Navigator sur les affiches
-
+- BaOIA_api_base_joconde_MonumenTAL: outil d'alignement des données avec la base Joconde et de récupération des métadonnées, téléchargement des images correspondantes, création de cartographie des lieux de conservation (base joconde) et comparaison des bases de données.
 
 ## Presse illustrée et estampes satiriques
 ### Téléchargement et récupération des données:
-- BaOIA_scrapper_heidelberg: téléchargement des documents issus de la bibliothèque numérique d'Heidelberg dans tous les formats disponibles (xml-alto, IIIF, texte brut océrisé, extraction des illustrations, jpg) 
+- BaOIA_scraper_heidelberg: téléchargement des documents issus de la bibliothèque numérique d'Heidelberg dans tous les formats disponibles (xml-alto, IIIF, texte brut océrisé, extraction des illustrations, jpg) 
