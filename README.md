@@ -28,7 +28,7 @@ Le dépôt est divisé en dossiers relatifs aux corpus de sources étudiées.
 - ```BaOIA_api_base_joconde_MonumenTAL.ipynb``` : outil d'alignement des données avec la base Joconde et de récupération des métadonnées, téléchargement des images correspondantes, création de cartographie des lieux de conservation (base joconde) et comparaison des bases de données.
 
 ### Presse illustrée et estampes satiriques
-- ```BaOIA_scrapper_heidelberg.ipynb``` : téléchargement des documents issus de la bibliothèque numérique d'Heidelberg dans tous les formats disponibles (xml-alto, IIIF, texte brut océrisé, extraction des illustrations, jpg).
+- ```BaOIA_scraper_heidelberg.ipynb``` : téléchargement des documents issus de la bibliothèque numérique d'Heidelberg dans tous les formats disponibles (xml-alto, IIIF, texte brut océrisé, extraction des illustrations, jpg).
 
 ## Prise en main des outils 
 
