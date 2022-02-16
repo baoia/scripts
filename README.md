@@ -11,22 +11,22 @@ Le dépôt est divisé en dossiers relatifs aux corpus de sources étudiées. Ch
 #### Téléchargement et récupération des données
 - ```BaOIA_gallica_txt.ipynb``` : télécharge les fichiers issus de Gallica en fichiers de texte brut.
 - ```BaOIA_gallica_jpg.ipynb``` : télécharge les fichiers issus de Gallica en format image.
-- ```BaOIA_scrapper_gallica_IIIF.ipynb``` : télécharge les images en format IIIF (utilisation pour la récupération des cartes).
-- ```BaOIA_océrisation_tesseract.ipynb``` : océrisation de fichiers images
+- ```BaOIA_scraper_gallica_iiif.ipynb``` : télécharge les images en format IIIF (utilisation pour la récupération des cartes).
+- ```BaOIA_ocerisation_tesseract.ipynb``` : océrisation de fichiers images
 
 #### Étude de contenu
-- ```BaOIA_reconnaisance_extraction_entites_nommees.ipynb``` : outil de Reconnaissance automatique des entités nommées. 
+- ```BaOIA_reconnaisance_extraction_entites.ipynb``` : outil de Reconnaissance automatique des entités nommées. 
 - ```BAOIA_alignement_statistiques_personnages.ipynb``` : outil d'alignement des données avec Wikidata de récupération des informations sur les personnages identifiés et des études statistiques.
 
 #### Visualisation
 - ```BaOIA_cartographie-complete.ipynb``` : outil de création automatique d'une carte avec tous les lieux référencés.
-- ```BaOIA_cartographie_catégorisee.ipynb``` : outil de création d'une carte intéractive de sélection avec tri des lieux par "types".
+- ```BaOIA_cartographie_categorisee.ipynb``` : outil de création d'une carte intéractive de sélection avec tri des lieux par "types".
 - ```BaOIA_cartographie_parcours.ipynb``` : outil de création d'un parcours automatique sur une carte.
 - ```BaOIA_cartographie_comparaison_parcours.ipynb``` : outil de création de deux parcoure sur une carte intéractive.
 
 ### Projet MonumenTAL
 - ```BaOIA_alignement_artistes_monumenTAL.ipynb``` : outil d'alignement des artistes repérés avec Wikidata et récupération des informations biographiques.
-- ```BaOIA_api_base_joconde_MonumenTAL.ipynb``` : outil d'alignement des données avec la base Joconde et de récupération des métadonnées, téléchargement des images correspondantes, création de cartographie des lieux de conservation (base joconde) et comparaison des bases de données.
+- ```BaOIA_API_bases_de_donnees.ipynb``` : outil d'alignement des données avec la base Joconde et de récupération des métadonnées, téléchargement des images correspondantes, création de cartographie des lieux de conservation (base joconde) et comparaison des bases de données.
 
 ### Presse illustrée et estampes satiriques
 - ```BaOIA_scraper_heidelberg.ipynb``` : téléchargement des documents issus de la bibliothèque numérique d'Heidelberg dans tous les formats disponibles (xml-alto, IIIF, texte brut océrisé, extraction des illustrations, jpg).
