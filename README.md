@@ -2,9 +2,10 @@
 
 Lien vers le site du projet : https://baoia.huma-num.fr/ où des tutoriels détaillés sont disponibles pour certains scripts.
 
+
 ## Structure du dépôt
 
-Le dépôt est divisé en dossiers relatifs aux corpus de sources étudiées.
+Le dépôt est divisé en dossiers relatifs aux corpus de sources étudiées. Chaque dossier contient les scripts notebooks utilisables à travers Google Colab. Une aide technique sur le site du projet permet la prise en main des outils (cf [aide technique](https://baoia.huma-num.fr/aide-technique/)).
 
 ### Les guides de voyage (Gallica)
 #### Téléchargement et récupération des données
@@ -29,7 +30,3 @@ Le dépôt est divisé en dossiers relatifs aux corpus de sources étudiées.
 
 ### Presse illustrée et estampes satiriques
 - ```BaOIA_scraper_heidelberg.ipynb``` : téléchargement des documents issus de la bibliothèque numérique d'Heidelberg dans tous les formats disponibles (xml-alto, IIIF, texte brut océrisé, extraction des illustrations, jpg).
-
-## Prise en main des outils 
-
-Chaque dossier contient les scripts notebooks utilisables à travers Google Colab. Une aide technique sur le site du projet permet la prise en main des outils (cf [aide technique](https://baoia.huma-num.fr/aide-technique/)).
