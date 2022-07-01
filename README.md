@@ -30,3 +30,7 @@ Le dépôt est divisé en dossiers relatifs aux corpus de sources étudiées. Ch
 
 ### Presse illustrée et estampes satiriques
 - ```BaOIA_scraper_heidelberg.ipynb``` : téléchargement des documents issus de la bibliothèque numérique d'Heidelberg dans tous les formats disponibles (xml-alto, texte brut océrisé, extraction des illustrations, jpg).
+
+### Affiches numérisées
+- ```compression_affiches.ipynb``` : compression d'images JPG contenues dans un même dossier.
+- ```ocr_google_vision_api.ipynb ``` : océrisation d'un corpus d'images, récupération du texte et de la langue de fichiers jpg.
