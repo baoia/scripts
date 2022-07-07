@@ -35,3 +35,6 @@ Le dépôt est divisé en dossiers relatifs aux corpus de sources étudiées. Ch
 - ```BaOIA_compression_affiches.ipynb``` : compression d'images JPG contenues dans un même dossier.
 - ```BaOIA_doublons_et_images_similaires.ipynb ``` : repérage de doublons et images similaires dans un corpus de fichiers jpg.
 - ```BaOIA_ocr_google_vision_api.ipynb ``` : océrisation d'un corpus d'images, récupération du texte et de la langue de fichiers jpg.
+
+### Dépêches d'agences de presse soviétique
+- ```BaOIA_extraction_texte_pdf.ipynb``` : extraction du texte par page d'un PDF.
