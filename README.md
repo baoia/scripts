@@ -24,10 +24,6 @@ Le dépôt est divisé en dossiers relatifs aux corpus de sources étudiées. Ch
 - ```BaOIA_cartographie_parcours.ipynb``` : outil de création automatique d'un parcours sur une carte.
 - ```BaOIA_cartographie_comparaison_parcours.ipynb``` : outil de création automatique de deux parcours sur une carte.
 
-### Projet MonumenTAL
-- ```BaOIA_alignement_artistes_monumenTAL.ipynb``` : outil d'alignement des artistes repérés avec Wikidata et récupération des informations biographiques.
-- ```BaOIA_API_bases_de_donnees.ipynb``` : outil d'alignement des données avec les base Joconde, Europeana et Gallica avec récupération des métadonnées, téléchargement des images correspondantes, création de cartographie des lieux de conservation (données base Joconde) et comparaison des bases de données.
-
 ### Presse illustrée et estampes satiriques
 - ```BaOIA_scraper_heidelberg.ipynb``` : téléchargement des documents issus de la bibliothèque numérique d'Heidelberg dans tous les formats disponibles (xml-alto, texte brut océrisé, extraction des illustrations, jpg).
 
